@@ -5,6 +5,7 @@ The dissertation viewer in `about.html` expects:
 - `dissertation.pdf`
 - `algebraic-topology-project.pdf`
 - `boolean-function-complexity-jukna.pdf`
+- `thesis.pdf` (MSc thesis)
 
 
 To add another written work, copy the `.pdf-viewer` block in the About page and
